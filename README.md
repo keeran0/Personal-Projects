@@ -1,4 +1,3 @@
 # Personal-Projects
-This repository showcases my personal projects 
+This repository showcases my personal projects and my growth throughout my Data Analyst journey.
 
-Each Branch contains a different personal project I've worked on
